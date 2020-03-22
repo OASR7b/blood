@@ -123,7 +123,7 @@
                      <div class="frame-container">
                          <h3 class="frame-title"><?php echo $this->lang->line('step_one_title'); ?></h3>
                          <div class="alert alert-danger" role="alert">
-  <center>For those who registered for the blood drive in April, your registration has been moved to August. To cancel this appointment, see the email confirmation set to you when you registered.</center>
+  <center>For those who registered for the blood drive in April, your registration has been moved to August.<br>To cancel your appointment, see the email confirmation sent to you when you registered.</center>
 </div> 
 
                         <div class="frame-content">
