@@ -122,9 +122,9 @@
                     <div id="wizard-frame-1" class="wizard-frame">
                      <div class="frame-container">
                          <h3 class="frame-title"><?php echo $this->lang->line('step_one_title'); ?></h3>
-                        <!-- <div class="alert alert-danger" role="alert">
-  <center>Online Blood Drive registration for Conclave 2018 is now closed. Walk up registration will be accepted.</center>
-</div>  -->
+                         <div class="alert alert-danger" role="alert">
+  <center>For those who registered for the blood drive in April, your registration has been moved to August. To cancel this appointment, see the email confirmation set to you when you registered.</center>
+</div> 
 
                         <div class="frame-content">
                             <div class="form-group">

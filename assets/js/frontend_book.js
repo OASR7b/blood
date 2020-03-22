@@ -64,7 +64,7 @@ window.FrontendBook = window.FrontendBook || {};
             dateFormat: 'mm-dd-yy',
             firstDay: 7, // Monday
             minDate: 0,
-            defaultDate: new Date('2020-04-18'),
+            defaultDate: new Date('2020-08-29'),
 
             dayNames: [
                     EALang['sunday'], EALang['monday'], EALang['tuesday'], EALang['wednesday'],
